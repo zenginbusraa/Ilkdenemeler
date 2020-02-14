@@ -1,0 +1,4 @@
+ilk satır
+yeni şeyler 1
+yeni şeyler 2
+yeni şeyler 3
